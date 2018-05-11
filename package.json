@@ -17,7 +17,8 @@
     "icloud",
     "ios",
     "ecosystem:cordova",
-    "cordova-ios"
+    "cordova-ios",
+    "cordova-osx"
   ],
   "engines": [
     {

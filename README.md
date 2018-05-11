@@ -1,7 +1,7 @@
 phonegap-icloudkv-plugin
 ========================
 
-iOS iCloud KeyValue Store plugin for PhoneGap
+iCloud KeyValue Store plugin for PhoneGap
 
 Allows storing small amounts of configuration data in iCloud from Cordova/PhoneGap. Wraps NSUbiquitousKeyValueStore class.
 
